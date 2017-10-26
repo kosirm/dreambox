@@ -1,0 +1,20 @@
+{
+	"hobby": [
+		"Eating",
+		"Walking",
+		"Prding",
+		"Kaking",
+		"Developing"
+	],
+	"pet": [
+		{
+			"name": "Miško Piško",
+			"birthday": "2014-06-11"
+		},
+		{
+			"name": "Blaze Dobri",
+			"birthday": "2014-10-11"
+		}
+	],
+	"strength": 78
+}
