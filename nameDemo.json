@@ -8,25 +8,25 @@
 	],
 	"pet": [
 		{
+			"name": "Mala Maca",
+			"birthday": "2017-10-13"
+		},
+		{
 			"name": "Miško Piško",
 			"birthday": "2014-06-11"
+		},
+		{
+			"name": "Piki",
+			"birthday": "1974-10-11"
 		},
 		{
 			"name": "Blaze Dobri",
 			"birthday": "2014-10-11"
 		},
 		{
-			"name": "Mala Maca",
-			"birthday": "2017-10-13"
-		},
-		{
 			"name": "JUMBO",
 			"birthday": "1963-10-25"
-		},
-		{
-			"name": "Piki",
-			"birthday": "1974-10-11"
 		}
 	],
-	"strength": 39
+	"strength": 44
 }
