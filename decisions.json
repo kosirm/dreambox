@@ -34,6 +34,24 @@
 					"weight": 3
 				}
 			]
+		},
+		{
+			"decision": "Otiči u misije?",
+			"pro": [
+				{
+					"argument": "Vršiti Božju volju",
+					"weight": 4
+				},
+				{
+					"weight": 0
+				}
+			],
+			"con": [
+				{
+					"argument": "Opasnosti - muslimani",
+					"weight": 4
+				}
+			]
 		}
 	]
 }
