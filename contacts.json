@@ -1,23 +1,6 @@
 {
 	"contact": [
 		{
-			"picture": "https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png",
-			"name": "Lea Verou",
-			"affiliation": "MIT CSAIL",
-			"phoneNumber": [
-				{
-					"name": "Mobile",
-					"telephone": "555-123-4567"
-				}
-			],
-			"emailAddress": [
-				{
-					"name": "Email",
-					"email": "leaverou@mit.edu"
-				}
-			]
-		},
-		{
 			"picture": "https://cdn.rawgit.com/kosirm/dreambox/f985bf9ae02add2732a82419f4c434990691b779/images/SPAvatar.PNG",
 			"name": "Milan Košir",
 			"affiliation": "Developer",
@@ -47,6 +30,23 @@
 				{
 					"name": "Email",
 					"email": "kosir.lidija@gmail.com"
+				}
+			]
+		},
+		{
+			"picture": "https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png",
+			"name": "Lea Verou",
+			"affiliation": "MIT CSAIL",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "555-123-4567"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "leaverou@mit.edu"
 				}
 			]
 		}
