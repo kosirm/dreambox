@@ -13,13 +13,13 @@
 				},
 				{
 					"argument": "Exports to JSON",
-					"weight": 0
+					"weight": 3
 				}
 			],
 			"con": [
 				{
 					"argument": "I have tons of work to do.",
-					"weight": 1
+					"weight": 4
 				}
 			]
 		}
