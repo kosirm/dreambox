@@ -43,7 +43,8 @@
 					"weight": 4
 				},
 				{
-					"weight": 0
+					"argument": "Biti koristan",
+					"weight": 2
 				}
 			],
 			"con": [
