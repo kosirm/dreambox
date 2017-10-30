@@ -5,11 +5,11 @@
 			"pro": [
 				{
 					"argument": "HTML based",
-					"weight": 1
+					"weight": 3
 				},
 				{
 					"argument": "Connected to GIT",
-					"weight": 0
+					"weight": 3
 				},
 				{
 					"argument": "Exports to JSON",
