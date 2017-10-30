@@ -4,6 +4,10 @@
 			"decision": "Should I develop in Mavo?",
 			"pro": [
 				{
+					"argument": "Academic research behind it",
+					"weight": 3
+				},
+				{
 					"argument": "HTML based",
 					"weight": 3
 				},
