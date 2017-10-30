@@ -22,15 +22,15 @@
 			],
 			"con": [
 				{
-					"argument": "I have tons of work to do.",
-					"weight": 2
-				},
-				{
 					"argument": "Small team",
 					"weight": 4
 				},
 				{
 					"argument": "No monetization, possible dead end with no support",
+					"weight": 3
+				},
+				{
+					"argument": "No long term support except accademic \"good will\"",
 					"weight": 3
 				}
 			]
