@@ -1,0 +1,27 @@
+{
+	"decision": [
+		{
+			"decision": "Should I develop in Mavo?",
+			"pro": [
+				{
+					"argument": "HTML based",
+					"weight": 1
+				},
+				{
+					"argument": "Connected to GIT",
+					"weight": 0
+				},
+				{
+					"argument": "Exports to JSON",
+					"weight": 0
+				}
+			],
+			"con": [
+				{
+					"argument": "I have tons of work to do.",
+					"weight": 1
+				}
+			]
+		}
+	]
+}
