@@ -24,6 +24,10 @@
 				{
 					"argument": "I have tons of work to do.",
 					"weight": 4
+				},
+				{
+					"argument": "Small team",
+					"weight": 4
 				}
 			]
 		}
