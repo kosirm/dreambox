@@ -18,6 +18,10 @@
 				{
 					"argument": "Exports to JSON",
 					"weight": 3
+				},
+				{
+					"argument": "Polako napredujem:)",
+					"weight": 0
 				}
 			],
 			"con": [
