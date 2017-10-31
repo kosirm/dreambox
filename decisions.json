@@ -5,11 +5,11 @@
 			"pro": [
 				{
 					"argument": "Academic research behind it",
-					"weight": 3
+					"weight": 4
 				},
 				{
 					"argument": "HTML based",
-					"weight": 4
+					"weight": 3
 				},
 				{
 					"argument": "Connected to GIT",
@@ -17,11 +17,11 @@
 				},
 				{
 					"argument": "Exports to JSON",
-					"weight": 3
+					"weight": 4
 				},
 				{
 					"argument": "Polako napredujem:)",
-					"weight": 0
+					"weight": 3
 				}
 			],
 			"con": [
@@ -44,7 +44,7 @@
 			"pro": [
 				{
 					"argument": "Vršiti Božju volju",
-					"weight": 4
+					"weight": 2
 				},
 				{
 					"argument": "Biti koristan",
@@ -54,7 +54,7 @@
 			"con": [
 				{
 					"argument": "Opasnosti - muslimani",
-					"weight": 4
+					"weight": 3
 				}
 			]
 		}
