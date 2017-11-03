@@ -4,22 +4,19 @@
 			"talk": [
 				{
 					"type": "Keynote",
-					"title": "TBD",
-					"video": "https://youtu.be/Cub9nk9_n1g"
+					"title": "TBD"
 				},
 				{
-					"title": "DREAMBOX",
-					"type": "Talk",
-					"video": "https://youtu.be/Cub9nk9_n1g"
+					"title": "AJDE SADA IDEMO",
+					"type": "Talk"
 				}
 			],
 			"name": "You Gotta Love Frontend",
 			"url": "http://yougottalovefrontend.com",
 			"date": "2015-06-08",
 			"days": 2,
-			"country": "ch",
-			"city": "Bergen",
-			"comment": "Ponesite puno dobre volje!"
+			"country": "il",
+			"city": "Tel Aviv"
 		},
 		{
 			"talk": [
