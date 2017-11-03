@@ -5,18 +5,15 @@
 				{
 					"type": "Keynote",
 					"title": "TBD"
-				},
-				{
-					"title": "IMA LI FOLDER ZA MENE?",
-					"type": "Panel"
 				}
 			],
 			"name": "You Gotta Love Frontend",
 			"url": "http://yougottalovefrontend.com",
 			"date": "2015-06-08",
 			"days": 2,
-			"country": "il",
-			"city": "Tel Aviv"
+			"country": "hr",
+			"city": "Pula",
+			"comment": "Treba zastava... :)"
 		},
 		{
 			"talk": [
@@ -32,7 +29,7 @@
 			"name": "WebVisions Barcelona",
 			"url": "http://www.webvisionsevent.com/barcelona/",
 			"date": "2014-06-20",
-			"country": "es",
+			"country": "us",
 			"city": "Barcelona"
 		},
 		{
@@ -57,7 +54,7 @@
 			],
 			"name": "MediaCampAthens",
 			"date": "2009-03-09",
-			"country": "el",
+			"country": "gb",
 			"city": "Athens",
 			"slides": "http://www.slideshare.net/LeaVerou/colors-in-css3",
 			"comment": "The slides from my presentation were featured in SlideShare and many other websites"
