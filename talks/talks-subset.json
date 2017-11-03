@@ -1,0 +1,66 @@
+{
+	"event": [
+		{
+			"talk": [
+				{
+					"type": "Keynote",
+					"title": "TBD"
+				},
+				{
+					"title": "IMA LI FOLDER ZA MENE?",
+					"type": "Panel"
+				}
+			],
+			"name": "You Gotta Love Frontend",
+			"url": "http://yougottalovefrontend.com",
+			"date": "2015-06-08",
+			"days": 2,
+			"country": "il",
+			"city": "Tel Aviv"
+		},
+		{
+			"talk": [
+				{
+					"title": "The Chroma Zone: Engineering Color on the Web",
+					"type": "Keynote"
+				},
+				{
+					"title": "CSS Visual Effects masterclass",
+					"type": "Workshop"
+				}
+			],
+			"name": "WebVisions Barcelona",
+			"url": "http://www.webvisionsevent.com/barcelona/",
+			"date": "2014-06-20",
+			"country": "es",
+			"city": "Barcelona"
+		},
+		{
+			"talk": [
+				{
+					"title": "The Chroma Zone: Engineering Color on the Web",
+					"type": "Keynote"
+				}
+			],
+			"name": "MoDevUX",
+			"url": "http://ux14.gomodev.com/",
+			"date": "2014-05-20",
+			"country": "us",
+			"city": "McLean, VA"
+		},
+		{
+			"talk": [
+				{
+					"title": "CSS3 colors, today",
+					"type": "Talk"
+				}
+			],
+			"name": "MediaCampAthens",
+			"date": "2009-03-09",
+			"country": "el",
+			"city": "Athens",
+			"slides": "http://www.slideshare.net/LeaVerou/colors-in-css3",
+			"comment": "The slides from my presentation were featured in SlideShare and many other websites"
+		}
+	]
+}
