@@ -4,16 +4,27 @@
 			"talk": [
 				{
 					"type": "Keynote",
-					"title": "TBD"
+					"title": "dreambox rants"
+				},
+				{
+					"title": "summer talks",
+					"type": "Talk"
+				},
+				{
+					"title": "pridna punca",
+					"type": "Talk"
+				},
+				{
+					"title": "slovenski fant",
+					"type": "Talk"
 				}
 			],
 			"name": "You Gotta Love Frontend",
 			"url": "http://yougottalovefrontend.com",
 			"date": "2015-06-08",
 			"days": 2,
-			"country": "hr",
-			"city": "Pula",
-			"comment": "Treba zastava... :)"
+			"country": "il",
+			"city": "Tel Aviv"
 		},
 		{
 			"talk": [
@@ -29,7 +40,7 @@
 			"name": "WebVisions Barcelona",
 			"url": "http://www.webvisionsevent.com/barcelona/",
 			"date": "2014-06-20",
-			"country": "us",
+			"country": "es",
 			"city": "Barcelona"
 		},
 		{
@@ -54,7 +65,7 @@
 			],
 			"name": "MediaCampAthens",
 			"date": "2009-03-09",
-			"country": "gb",
+			"country": "el",
 			"city": "Athens",
 			"slides": "http://www.slideshare.net/LeaVerou/colors-in-css3",
 			"comment": "The slides from my presentation were featured in SlideShare and many other websites"
