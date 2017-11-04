@@ -17,6 +17,10 @@
 				{
 					"title": "slovenski fant",
 					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
 				}
 			],
 			"name": "You Gotta Love Frontend",
